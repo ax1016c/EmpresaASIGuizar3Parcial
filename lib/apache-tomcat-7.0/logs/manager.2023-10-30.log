@@ -1,0 +1,12 @@
+Oct 30, 2023 10:48:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Oct 30, 2023 10:48:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Oct 30, 2023 10:48:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Oct 30, 2023 10:48:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Oct 30, 2023 10:48:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/axelg/AppData/Local/Temp/context246749581135002788.xml'
+Oct 30, 2023 10:48:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/Practica5'

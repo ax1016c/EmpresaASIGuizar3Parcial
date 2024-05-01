@@ -1,0 +1,24 @@
+Nov 13, 2023 10:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 13, 2023 10:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 13, 2023 10:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 10:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 10:07:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 10:07:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 12:33:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Nov 13, 2023 12:33:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Nov 13, 2023 12:33:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 12:33:35 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 12:57:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Nov 13, 2023 12:57:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

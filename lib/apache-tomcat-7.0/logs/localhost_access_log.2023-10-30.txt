@@ -1,0 +1,17 @@
+127.0.0.1 - - [30/Oct/2023:10:48:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [30/Oct/2023:10:48:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [30/Oct/2023:10:48:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [30/Oct/2023:10:48:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - hola [30/Oct/2023:10:48:24 -0600] "GET /manager/text/list HTTP/1.1" 200 303
+127.0.0.1 - hola [30/Oct/2023:10:48:24 -0600] "GET /manager/text/list HTTP/1.1" 200 303
+127.0.0.1 - hola [30/Oct/2023:10:48:24 -0600] "GET /manager/text/deploy?config=file%3A%2FC%3A%2FUsers%2Faxelg%2FAppData%2FLocal%2FTemp%2Fcontext246749581135002788.xml&path=/Practica5 HTTP/1.1" 200 65
+127.0.0.1 - hola [30/Oct/2023:10:48:24 -0600] "GET /manager/text/start?path=/Practica5 HTTP/1.1" 200 64
+127.0.0.1 - - [30/Oct/2023:10:48:24 -0600] "GET /Practica5 HTTP/1.1" 302 -
+127.0.0.1 - - [30/Oct/2023:10:48:25 -0600] "GET /Practica5/ HTTP/1.1" 200 1554
+127.0.0.1 - - [30/Oct/2023:10:48:25 -0600] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [30/Oct/2023:10:49:08 -0600] "POST /Practica5/registraProducto HTTP/1.1" 200 174
+127.0.0.1 - - [30/Oct/2023:10:49:10 -0600] "GET /Practica5/index.jsp HTTP/1.1" 200 1554
+127.0.0.1 - - [30/Oct/2023:10:49:11 -0600] "POST /Practica5/mostrarProductos HTTP/1.1" 200 2799
+127.0.0.1 - - [30/Oct/2023:11:46:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [30/Oct/2023:11:46:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -
+127.0.0.1 - - [30/Oct/2023:11:46:23 -0600] "HEAD /netbeans-tomcat-status-test HTTP/1.1" 404 -

@@ -1,0 +1,208 @@
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.92
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 9 2018 11:07:44 UTC
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.92.0
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_111\jre
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_111-b14
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\logging.properties
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 10:04:19 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\temp
+Nov 13, 2023 10:04:19 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded APR based Apache Tomcat Native library 1.2.18 using APR version 1.6.5.
+Nov 13, 2023 10:04:19 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+Nov 13, 2023 10:04:19 AM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.1.1  11 Sep 2018)
+Nov 13, 2023 10:04:20 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 10:04:20 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 10:04:20 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 715 ms
+Nov 13, 2023 10:04:20 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 13, 2023 10:04:20 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.92
+Nov 13, 2023 10:04:20 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\JSP1.xml
+Nov 13, 2023 10:04:21 AM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [383] milliseconds.
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\JSP1.xml has finished in 851 ms
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\Practica5.xml
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\Practica5.xml has finished in 108 ms
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\docs
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\docs has finished in 64 ms
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\examples
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\examples has finished in 436 ms
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\host-manager
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\host-manager has finished in 88 ms
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\manager
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\manager has finished in 60 ms
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\ROOT
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\ROOT has finished in 47 ms
+Nov 13, 2023 10:04:21 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 10:04:21 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 10:04:21 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1738 ms
+Nov 13, 2023 11:09:45 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 13, 2023 11:09:45 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 11:09:45 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 11:09:45 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 13, 2023 11:09:45 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 11:09:45 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 11:09:45 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 11:09:45 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.92
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 9 2018 11:07:44 UTC
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.92.0
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 10
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.0
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_111\jre
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_111-b14
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\logging.properties
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dignore.endorsed.dirs=
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\temp
+Nov 13, 2023 12:33:32 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Loaded APR based Apache Tomcat Native library 1.2.18 using APR version 1.6.5.
+Nov 13, 2023 12:33:32 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+Nov 13, 2023 12:33:32 PM org.apache.catalina.core.AprLifecycleListener initializeSSL
+INFO: OpenSSL successfully initialized (OpenSSL 1.1.1  11 Sep 2018)
+Nov 13, 2023 12:33:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 12:33:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 717 ms
+Nov 13, 2023 12:33:32 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 13, 2023 12:33:32 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.92
+Nov 13, 2023 12:33:32 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\JSP1.xml
+Nov 13, 2023 12:33:33 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+WARNING: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [379] milliseconds.
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\JSP1.xml has finished in 837 ms
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\Practica5.xml
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deployment of configuration descriptor C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\conf\Catalina\localhost\Practica5.xml has finished in 90 ms
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\docs
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\docs has finished in 50 ms
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\examples
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\examples has finished in 440 ms
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\host-manager
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\host-manager has finished in 90 ms
+Nov 13, 2023 12:33:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\manager
+Nov 13, 2023 12:33:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\manager has finished in 410 ms
+Nov 13, 2023 12:33:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\ROOT
+Nov 13, 2023 12:33:34 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\axelg\Downloads\netbeans\apache-tomcat-7.0.92\webapps\ROOT has finished in 50 ms
+Nov 13, 2023 12:33:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 12:33:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 12:33:34 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2060 ms
+Nov 13, 2023 12:59:36 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Nov 13, 2023 12:59:36 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 12:59:36 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 12:59:36 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Nov 13, 2023 12:59:36 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 12:59:36 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-apr-8009"]
+Nov 13, 2023 12:59:36 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-apr-8080"]
+Nov 13, 2023 12:59:36 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-apr-8009"]
